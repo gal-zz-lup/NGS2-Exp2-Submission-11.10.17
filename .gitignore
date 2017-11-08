@@ -16,3 +16,6 @@ NGS2-Cycle1-Experiment2/documentation/
 
 # zip files
 *.zip
+
+# configuration files
+*.cfg
